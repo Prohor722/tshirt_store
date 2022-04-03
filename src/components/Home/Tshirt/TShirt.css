@@ -1,0 +1,14 @@
+.tshirt{
+    height: 450px;
+    width: 300px;
+    border: 2px solid white;
+    margin-bottom: 20px;
+}
+.tshirt:hover{
+    border: 2px solid orange;
+}
+img{
+    height: 300px;
+    width: 250px;
+}
+
